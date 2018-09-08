@@ -4,7 +4,11 @@
   "description": "music online",
   "main": "index.js",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "fresh": "^0.5.2",
+    "gulp": "^3.9.1",
+    "hoek": "^5.0.4",
+    "lodash": "^4.17.10",
+    "node-mime": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^8.6.3",
